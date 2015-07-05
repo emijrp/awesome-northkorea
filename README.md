@@ -32,7 +32,8 @@ Also, you can explore by tag ([DPRK](https://secure.flickr.com/photos/tags/dprk/
 
 ## Music
 
-* [Music of North Korea](https://en.wikipedia.org/wiki/Music_of_North_Korea)
+* [DPRKMusicChannel](https://www.youtube.com/channel/UCcHJfWfZb-q7-dE4UvL4Dxw) - Songs by Moranbong Band and Pochonbo Electronic Ensemble.
+* [Music of North Korea](https://en.wikipedia.org/wiki/Music_of_North_Korea) - Wikipedia article.
 
 ## News
 
