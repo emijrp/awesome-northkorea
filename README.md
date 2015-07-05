@@ -39,12 +39,14 @@ Also, you can explore by tag ([DPRK](https://secure.flickr.com/photos/tags/dprk/
 
 * [DPRKMusicChannel](https://www.youtube.com/channel/UCcHJfWfZb-q7-dE4UvL4Dxw) - Songs by Moranbong Band and Pochonbo Electronic Ensemble.
 * [DPRK Music Fan](https://www.youtube.com/channel/UCFPK06UqmJKUHWX86w2p_aQ) - Moranbong Band, Unhasu Orchestra, State Merited Chorus, Wangjaesan Art Troupe and other concerts.
+* [List of North Korean musicians](https://en.wikipedia.org/wiki/List_of_North_Korean_musicians) - Wikipedia article.
 * [List of North Korean operas](https://en.wikipedia.org/wiki/List_of_North_Korean_operas) - Wikipedia article.
 * [Music of North Korea](https://en.wikipedia.org/wiki/Music_of_North_Korea) - Wikipedia article.
 
 ## News
 
 * [Korean Central News Agency](http://www.kcna.kp/) - The state news agency of North Korea that was established on December 5, 1946.
+* [List of North Korean news agencies](https://en.wikipedia.org/wiki/List_of_North_Korean_news_agencies) - Wikipedia article.
 
 ## Videos
 
