@@ -12,8 +12,9 @@ A curated list of awesome North Korea resources.
 
 ## Cinema
 
-* [FilmAffinity](http://www.filmaffinity.com/en/advsearch.php?stext=&stype[]=title&country=KP&genre=&fromyear=&toyear=) - List of films in this movies site.
-* [North Korean movies](https://www.youtube.com/playlist?list=PL4D1A9E71A707338B) - YouTube playlist with many films.
+* [FilmAffinity](http://www.filmaffinity.com/en/advsearch.php?stext=&stype[]=title&country=KP&genre=&fromyear=&toyear=) - List of films in this movies site. 19 movies.
+* [IMDb](http://www.imdb.com/search/title?countries=kp&sort=moviemeter,asc) - Most popular titles with country of origin North Korea. 100+ movies.
+* [North Korean movies](https://www.youtube.com/playlist?list=PL4D1A9E71A707338B) - DPRK Video Archive playlist with many films.
 
 ## Images
 
