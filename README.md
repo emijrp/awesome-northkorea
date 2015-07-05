@@ -3,13 +3,14 @@
 A curated list of awesome North Korea resources.
 
 - [Awesome North Korea](#awesome-northkorea)
-    - [Culture](#culture)
+    - [Cinema](#cinema)
     - [Images](#images)
+    - [Music](#music)
     - [News](#news)
     - [Videos](#videos)
 - [Contributing](#contributing)
 
-## Culture
+## Cinema
 
 
 ## Images
@@ -18,6 +19,7 @@ These are some galleries and albums available in different image hostings, mainl
 
 * [Arirang Mass Games North Korea](https://secure.flickr.com/photos/mytripsmypics/sets/72157628201763951/) - 331 photos and 2 videos.
 * [Army North Korea](https://secure.flickr.com/photos/mytripsmypics/sets/72157628202096001/) - 125 photos.
+* [Category:North Korea](https://commons.wikimedia.org/wiki/Category:North_Korea) - Wikimedia Commons category with hundreds of pictures.
 * [DPRK - Land of morning calm](https://secure.flickr.com/photos/31398230@N05/sets/72157654692246586) - 39 photos.
 * [Schools in North Korea](https://secure.flickr.com/photos/mytripsmypics/sets/72157628202062371/) - 55 photos and 2 videos.
 * [North Korea](https://secure.flickr.com/photos/samgellman/sets/72157627661307874/) - 51 photos. September 9-12, 2011.
@@ -27,6 +29,10 @@ These are some galleries and albums available in different image hostings, mainl
 * [Propaganda North Korea](https://secure.flickr.com/photos/mytripsmypics/sets/72157628202040649/) - 110 photos.
 
 Also, you can explore by tag ([DPRK](https://secure.flickr.com/photos/tags/dprk/), [NorthKorea](https://secure.flickr.com/photos/tags/northkorea/)) and groups ([DPRK](https://secure.flickr.com/groups/dprk/pool/), [North Korea Images](https://secure.flickr.com/groups/northkorea/pool/)).
+
+## Music
+
+* [Music of North Korea](https://en.wikipedia.org/wiki/Music_of_North_Korea)
 
 ## News
 
