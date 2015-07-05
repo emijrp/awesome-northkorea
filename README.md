@@ -3,9 +3,14 @@
 A curated list of awesome North Korea resources.
 
 - [Awesome North Korea](#awesome-northkorea)
+    - [Culture](#culture)
     - [Images](#images)
+    - [News](#news)
     - [Videos](#videos)
 - [Contributing](#contributing)
+
+## Culture
+
 
 ## Images
 
@@ -22,6 +27,9 @@ These are some galleries and albums available in different image hostings, mainl
 * [Propaganda North Korea](https://secure.flickr.com/photos/mytripsmypics/sets/72157628202040649/) - 110 photos.
 
 Also, you can explore by tag ([DPRK](https://secure.flickr.com/photos/tags/dprk/), [NorthKorea](https://secure.flickr.com/photos/tags/northkorea/)) and groups ([DPRK](https://secure.flickr.com/groups/dprk/pool/), [North Korea Images](https://secure.flickr.com/groups/northkorea/pool/)).
+
+## News
+
 
 ## Videos
 
