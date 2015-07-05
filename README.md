@@ -33,6 +33,7 @@ Also, you can explore by tag ([DPRK](https://secure.flickr.com/photos/tags/dprk/
 ## Music
 
 * [DPRKMusicChannel](https://www.youtube.com/channel/UCcHJfWfZb-q7-dE4UvL4Dxw) - Songs by Moranbong Band and Pochonbo Electronic Ensemble.
+* [DPRK Music Fan](https://www.youtube.com/channel/UCFPK06UqmJKUHWX86w2p_aQ) - Moranbong Band, Unhasu Orchestra, State Merited Chorus, Wangjaesan Art Troupe and other concerts.
 * [Music of North Korea](https://en.wikipedia.org/wiki/Music_of_North_Korea) - Wikipedia article.
 
 ## News
