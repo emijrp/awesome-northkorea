@@ -12,6 +12,8 @@ A curated list of awesome North Korea resources.
 
 ## Cinema
 
+* [FilmAffinity](http://www.filmaffinity.com/en/advsearch.php?stext=&stype[]=title&country=KP&genre=&fromyear=&toyear=) - List of films in this movies site.
+* [North Korean movies](https://www.youtube.com/playlist?list=PL4D1A9E71A707338B) - YouTube playlist with many films.
 
 ## Images
 
@@ -38,9 +40,11 @@ Also, you can explore by tag ([DPRK](https://secure.flickr.com/photos/tags/dprk/
 
 ## News
 
+* [Korean Central News Agency](http://www.kcna.kp/) - The state news agency of North Korea that was established on December 5, 1946.
 
 ## Videos
 
+* [DPRK Video Archive](https://www.youtube.com/user/tyrlop/videos) - Many recordings about Kim Il-sung and Kim Jong-il and some films.
 
 # Contributing
 
