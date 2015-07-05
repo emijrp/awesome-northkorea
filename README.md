@@ -8,6 +8,7 @@ A curated list of awesome North Korea resources.
     - [Music](#music)
     - [News](#news)
     - [Videos](#videos)
+    - [Other](#other)
 - [Contributing](#contributing)
 
 ## Cinema
@@ -46,6 +47,10 @@ Also, you can explore by tag ([DPRK](https://secure.flickr.com/photos/tags/dprk/
 ## Videos
 
 * [DPRK Video Archive](https://www.youtube.com/user/tyrlop/videos) - Many recordings about Kim Il-sung and Kim Jong-il and some films.
+
+## Other
+
+* [Bias in reporting on North Korea by Western news media](https://en.wikipedia.org/wiki/Bias_in_reporting_on_North_Korea_by_Western_news_media)
 
 # Contributing
 
