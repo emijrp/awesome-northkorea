@@ -47,6 +47,7 @@ Also, you can explore by tag ([DPRK](https://secure.flickr.com/photos/tags/dprk/
 
 * [Korean Central News Agency](http://www.kcna.kp/) - The state news agency of North Korea that was established on December 5, 1946.
 * [List of North Korean news agencies](https://en.wikipedia.org/wiki/List_of_North_Korean_news_agencies) - Wikipedia article.
+* [Voice of Korea](http://www.vok.rep.kp) - International broadcasting service in Chinese, Spanish, German, English, French, Russian, Japanese, and Arabic.
 
 ## Videos
 
